@@ -8,15 +8,19 @@ Follow these steps to run the project:
 
 1. Clone the repo
     git clone https://github.com/prathmeshsuhagpure/zylentrix_assignment.git
-    cd zylentrix_assignment
-
-2. Install the dependencies
+   
+3. Install the dependencies
    flutter pub get
 
-3. Run the app
+4. Run the app
    flutter run
 
-   
+## Screenshots
+
+<p>
+<img src="Screenshot (8).png" width="400"/> <img src="Screenshot (9).png" width="400"/>
+</p>
+
 ## What This App Does
 
 1. Fetches post data from https://jsonplaceholder.typicode.com/posts
